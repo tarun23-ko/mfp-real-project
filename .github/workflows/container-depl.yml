@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - "packages/containter/**"
+    - "packages/*"
 
 defaults:
   run:
