@@ -80,7 +80,7 @@ export default function Header({ signedIn, onSignOut }) {
             to="/"
           >
             App
-          </Typography>
+          </Typography> s
           <Button
             color="primary"
             variant="outlined"
