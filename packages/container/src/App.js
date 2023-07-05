@@ -5,6 +5,7 @@ import Header from './components/Header'
 export default () => {
     return <BrowserRouter>
             <Header/>
+            <h1>HI</h1>
             <MarketingApp/>
         </BrowserRouter>
 }
